@@ -16,9 +16,9 @@ Pending setting this up as an actual package to be usable!
 
 ## How to run this repo on your machine
 
-- Clone the repo and `npm install`
-- Start both geth nodes with `npm start`
-- Run the tests with `npm test` which will trigger a reorg in node-2!
+- Clone the repo and `yarn install`
+- Start both geth nodes with `yarn start`
+- Run the tests with `yarn test` which will trigger a reorg in node-2!
 
 ```bash
 # Sample run
